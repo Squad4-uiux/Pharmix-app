@@ -5,7 +5,7 @@ Pharmix is a smart pharmacy aggregation app designed to connect users with nearb
 2. Jannah
 3. Abdullah
 4. bishoy
-5. Marely
+5. Marly
 
 # Project plan 
 
