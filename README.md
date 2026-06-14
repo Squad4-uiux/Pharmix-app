@@ -51,3 +51,5 @@ https://www.figma.com/design/vHwdUHUt5BkGeElms3HHW4/first-project?node-id=21-159
 
 # Instructor
 Dr.Hazem Abdullah 
+# Figma link
+https://www.figma.com/design/vHwdUHUt5BkGeElms3HHW4/Pharmix-team-4?node-id=494-665&t=3tv28H94dnoqI7BO-1
