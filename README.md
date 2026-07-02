@@ -45,7 +45,11 @@ https://www.figma.com/design/vHwdUHUt5BkGeElms3HHW4/first-project?node-id=21-159
 
 # 5. Review & Finalization
 
-# 6. Final Presentation
+# 6. Final Presentation<img
+width="998" height="32768" alt="FINAL" src="https://github.com/user-attachments/assets/a85281cc-3b98-49e5-bf10-f60ad3e2956f" />
+
+
+
 
 # KPIs
 
